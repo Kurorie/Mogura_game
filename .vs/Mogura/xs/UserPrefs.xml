@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{05F628A7-4AB2-4259-FC8F-7920D0A1051E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/judge_left.cs">
+    <Files>
+      <File FileName="Assets/scripts/clearTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/timer.cs" />
+      <File FileName="Assets/scripts/test.cs" />
+      <File FileName="Assets/scripts/point.cs" />
+      <File FileName="Assets/scripts/mole_attack.cs" Line="60" Column="34" />
+      <File FileName="Assets/scripts/judge_left.cs" Line="149" Column="108" />
+      <File FileName="Assets/scripts/judge_right.cs" Line="143" Column="113" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mogura" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="judge_left.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c647786e-7336-47f5-899b-5d285d69ba05" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
